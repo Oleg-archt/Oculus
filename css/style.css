@@ -724,11 +724,13 @@ body {
 
   .footer .nav {
     flex-direction: column;
+    height: auto;
   }
 
   .social {
     order: -1;
     margin-bottom: 20px;
+    gap: 30px;
   }
 }
 
